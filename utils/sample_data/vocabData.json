@@ -1,0 +1,18 @@
+{
+    "-MiBsfuTafbEQ7eAULxV": {
+      "title": "Variable",
+      "firebaseKey": "-MiBsfuTafbEQ7eAULxV",
+      "language-tech": "General Term",         
+      "definition": "In programming, a variable is a value that can change, depending on conditions or on information passed to the program.",
+      "favorite": true,
+      "uid": ""
+    },
+  "-MiBt86VzkC-EGmJnxjm": {
+    "title": "Integer",
+    "firebaseKey": "-MiBt86VzkC-EGmJnxjm",
+    "language-tech": "General Term",
+    "definition": "A type of data the represents a number",
+    "favorite": true,
+    "uid": ""
+  }
+}
